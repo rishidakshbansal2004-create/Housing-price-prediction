@@ -162,7 +162,6 @@ Housing-Price-Prediction/
 ├── best_model.pkl
 ├── best_model_name.txt
 │
-├── requirements.txt
 └── README.md
 ```
 
